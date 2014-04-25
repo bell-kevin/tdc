@@ -1,0 +1,6 @@
+Django>=1.7
+python-dateutil
+django-mass-edit
+djangorestframework
+markdown
+django-filter
